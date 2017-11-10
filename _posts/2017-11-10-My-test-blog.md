@@ -11,7 +11,7 @@ published: true
     <td>Title</td>
     <td>My test blog</td>
     <td>Date</td>
-    <td>10/10/17</td>
+    <td>10/11/17</td>
   </tr>
 </table>
 
