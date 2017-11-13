@@ -27,7 +27,7 @@ published: true
   </tr>
   <tr>
     <td>Did I reach my target? </td>
-    <td></td>
+    <td>yes</td>
   </tr>
 </table>
 
@@ -39,15 +39,15 @@ published: true
   </tr>
   <tr>
     <td>Persevering</td>
-    <td></td>
+    <td>I carried on even when the work was hard</td>
   </tr>
   <tr>
     <td>Questioning?</td>
-    <td></td>
+    <td>Is this going to be correct?</td>
   </tr>
   <tr>
     <td>Independence</td>
-    <td></td>
+    <td>I did all my work on my own</td>
   </tr>
   <tr>
     <td>Reflecting</td>
@@ -62,7 +62,7 @@ published: true
     <td></td>
   </tr>
   <tr>
-    <td></td>
+    <td>I could have done a bit more in the lesson and concentrate more.</td>
     <td></td>
   </tr>
   <tr>
@@ -70,7 +70,7 @@ published: true
     <td></td>
   </tr>
   <tr>
-    <td></td>
+    <td>I could focus better and listen to every word.</td>
     <td></td>
   </tr>
 </table>
