@@ -51,11 +51,11 @@ published: true
   </tr>
   <tr>
     <td>Reflecting</td>
-    <td></td>
+    <td>I thought the lesson went well and I learned a lot</td>
   </tr>
   <tr>
     <td>Engagement</td>
-    <td></td>
+    <td>I could have been a bit more engaged but I thought I listened well</td>
   </tr>
   <tr>
     <td>What could have gone better in your learning?</td>
@@ -70,7 +70,7 @@ published: true
     <td></td>
   </tr>
   <tr>
-    <td>I could focus better and listen to every word.</td>
+    <td>I could focus better and listen a bit more.</td>
     <td></td>
   </tr>
 </table>
