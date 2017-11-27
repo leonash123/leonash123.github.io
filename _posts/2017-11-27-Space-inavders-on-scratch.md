@@ -62,7 +62,7 @@ published: true
     <td></td>
   </tr>
   <tr>
-    <td></td>
+    <td>I could have done more on my own.</td>
     <td></td>
   </tr>
   <tr>
@@ -70,7 +70,7 @@ published: true
     <td></td>
   </tr>
   <tr>
-    <td></td>
+    <td>I could focus more.</td>
     <td></td>
   </tr>
 </table>
