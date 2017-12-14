@@ -1,5 +1,5 @@
 ---
-title: space invaders 2
+title: 2nd space invaders 
 layout: post
 author: leo.nash
 permalink: /space-invaders-2/
@@ -9,7 +9,7 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>Space invaders 2</td>
+    <td>2nd Space invaders </td>
     <td>Date</td>
     <td>01/01/01</td>
   </tr>
